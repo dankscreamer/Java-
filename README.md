@@ -1,1 +1,4 @@
 # Java-
+Ok so how does java work we first define a class eg Class Main--> this name can be anything after that we write certain keywords or lines ie:> public static void main(String[]args){ so this is what the jvm takes it as default file to run programs in explanation (ok so when we write this line this line means that this is the main function this will run by default you can suppose like jvm is programmed in such a way that when a program is run it looks for a static method named main with public access and takes an array of string as parameter which doesnt return a value so if we do the same thing for another class we get two main classes in the program and have to specify which to run)
+if we have multiple similar class names the compiled files are overriden and we get an error so it is important to use different class names in different files also of the same directory
+}
